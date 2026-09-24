@@ -6,7 +6,7 @@ Este repositorio tem como pr:oposito registrar todos os meus conhecimentos tanto
 - [Fluxo de Comandos Linux](linux-comandos.md)
 
 ## Módulos de Estudo:
-- [Fluxo de Trabalho com Git](fluxo-fluxo.md) 
+- [Fluxo de Trabalho com Git](git-fluxo.md) 
 
 ---
 *Documento feito via Neovim no Linux Mint*
